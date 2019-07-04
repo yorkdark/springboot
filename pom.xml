@@ -118,7 +118,7 @@
                 <configuration>
                     <appendAssemblyId>false</appendAssemblyId>
                     <attach>false</attach>
-                    <finalName>gateway-srv-${project.version}</finalName>
+                    <finalName>springboot-srv-${project.version}</finalName>
                     <outputDirectory>dist</outputDirectory>
                     <descriptors>
                         <descriptor>src/assembly/assembly.xml</descriptor>
