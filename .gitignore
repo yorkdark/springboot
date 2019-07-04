@@ -1,0 +1,49 @@
+# maven ignore
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+*.jar
+!.mvn/wrapper/*
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+# eclipse ignore
+.settings/
+bin/
+*.launch
+.project
+.classpath
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# office ignore
+~*.docx
+~*.doc
+~*.xlsx
+~*.xls
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+logs/
+httpRequest/
+dist/
+
+# system ignore
+.DS_Store
+Thumbs.tmp.db
