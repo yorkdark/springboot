@@ -17,7 +17,6 @@ buildNumber.properties
 
 # eclipse ignore
 .settings/
-bin/
 *.launch
 .project
 .classpath
